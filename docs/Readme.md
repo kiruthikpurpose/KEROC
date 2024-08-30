@@ -25,11 +25,13 @@ KEROC is a new programming language that combines the simplicity of Python with 
 
 2. **Build the Project:**
 
-mkdir build
-cd build
-cmake ..
-make
+   ```bash
+   mkdir build
+   cd build
+   cmake ..
+   make
 
 3. **Run the Compiler:**
 
-./keroc
+   ```bash
+   ./keroc
